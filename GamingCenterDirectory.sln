@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.24720.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamingCenterDB", "GamingCenterDB\GamingCenterDB.csproj", "{DBCB22AF-1126-4065-9533-D272120C79BF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamingCenterDBTest", "GamingCenterDBTest\GamingCenterDBTest.csproj", "{4AF1E33D-3FDC-45B0-9BB1-19DE8D954D5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GamingCenterApp", "GamingCenterApp\GamingCenterApp.csproj", "{844F9EAE-3542-439E-A45F-52ABCD3AD7DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBCB22AF-1126-4065-9533-D272120C79BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBCB22AF-1126-4065-9533-D272120C79BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBCB22AF-1126-4065-9533-D272120C79BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBCB22AF-1126-4065-9533-D272120C79BF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4AF1E33D-3FDC-45B0-9BB1-19DE8D954D5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4AF1E33D-3FDC-45B0-9BB1-19DE8D954D5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4AF1E33D-3FDC-45B0-9BB1-19DE8D954D5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4AF1E33D-3FDC-45B0-9BB1-19DE8D954D5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{844F9EAE-3542-439E-A45F-52ABCD3AD7DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{844F9EAE-3542-439E-A45F-52ABCD3AD7DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{844F9EAE-3542-439E-A45F-52ABCD3AD7DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{844F9EAE-3542-439E-A45F-52ABCD3AD7DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
